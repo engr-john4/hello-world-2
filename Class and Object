@@ -1,0 +1,43 @@
+Class and Object
+
+class : Fruit
+objects : Apple, Banana, Mango
+
+class : Car
+objects : Volvo, Audi, Toyota
+
+object is created from a class.
+
+class Car 
+{
+	string color = "red";
+	// variable is declared directly in a class, it is often referred to as a field (or attribute).
+}
+
+
+		Car myObj = new Car();
+		Console.WriteLine(myObj.color);
+
+file:///X:/xampp-7.4.25/htdocs/mohiuddin/hamko/n/finance.html
+file:///X:/xampp-7.4.25/htdocs/mohiuddin/hamko/n/finance.html
+file:///X:/xampp-7.4.25/htdocs/mohiuddin/hamko/n/finance.html
+http://103.159.37.4/~ozmspwvi/demo/fin/n/index.php?p=home_1
+
+
+
+=====================================
+========
+(HEAD -> master)
+Date:   Wed Oct 12 16:18:00 2022 +0600  another emergency line from master
+Date:   Wed Oct 12 16:02:16 2022 +0600  emergency line added to master
+Date:   Wed Oct 12 14:11:29 2022 +0600  Updated index.html with a new line
+Date:   Wed Oct 12 14:02:23 2022 +0600  First release of Hello World!
+
+(HEAD -> hello-world-images)
+Date:   Wed Oct 12 15:58:16 2022 +0600  image size fixed
+Date:   Wed Oct 12 15:37:40 2022 +0600  updated index.html with emergency fix
+Date:   Wed Oct 12 15:11:22 2022 +0600  Added image to the Hello World
+Date:   Wed Oct 12 14:11:29 2022 +0600  Updated index.html with a new line
+Date:   Wed Oct 12 14:02:23 2022 +0600  First release of Hello World!
+
+
